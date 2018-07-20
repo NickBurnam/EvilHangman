@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=MainGame
+comment0.text=\r\n\ Evil\ Hangman\r\n\r\n\ Nicholas\ Burnam\r\n\ version\ 1.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Play\ game\ here\r\n
+comment2.params=dictionary
+comment2.target=int\ getSmallestWord(java.io.File)
+comment3.params=dictionary
+comment3.target=int\ getLargestWord(java.io.File)
+numComments=4
